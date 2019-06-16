@@ -1,0 +1,55 @@
+BODY
+{ 
+ /*background-image: url(yarnsiclefinal.jpg);*/
+ /*background-attachment: fixed;*/
+ /*background-repeat: no-repeat;*/
+ /*background-position: center;*/
+    background-color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+A:link
+{
+ color: 11518b;
+}
+
+A:visted
+{
+ color: blue;
+}
+
+P, UL, TD
+{
+    color:11518b;
+}
+
+H1, H2, H3, H4
+{
+ color:11518b;
+ text-align:center;
+}
+
+div.item {
+	border-radius: 10px;
+	background-color: rgba(255, 255, 255, 0.6);
+	border: 2px solid 11518b;
+	width: 45%;
+	min-width: 14em;
+	margin: 0px 0px 8px 2%;
+	padding: 4px 4px;
+	float: left;
+}
+
+img {
+	border-radius: 10px;
+}
+
+div.banner {
+	border-radius: 10px;
+	/*background-color: rgba(255, 255, 255, 0.7);*/
+	border: 2px solid 11518b;
+	width: 92%;
+	padding: 6px 8px;
+	margin: 0px 0px 8px 2%;
+	float: left;
+}
